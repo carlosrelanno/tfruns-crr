@@ -1,4 +1,4 @@
-tfruns: Track, Visualize, and Manage Training Runs
+tfruns: Track, Visualize, and Manage Training Runs / UPDATED TO NOT USE FILE SNAPSHOT
 ================
 
 <!-- badges: start -->
